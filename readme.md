@@ -1,0 +1,3 @@
+rabbitmq-demo
+
+spring+rabbitmq
